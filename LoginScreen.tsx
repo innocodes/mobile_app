@@ -1,4 +1,3 @@
-import * as RNLocalize from "react-native-localize";
 import {StyleSheet, TextInput, View, Text, Button, TouchableOpacity} from 'react-native';
 import {useState} from "react";
 

@@ -1,6 +1,6 @@
 import React, {useState} from 'react';
 import {Button, StyleSheet, Text, TextInput, TouchableOpacity, View} from "react-native";
-import {SelectList} from "react-native-dropdown-select-list/index";
+import {SelectList} from "react-native-dropdown-select-list";
 import {countries} from "./src/shared/utils/countries";
 
 export default function RegisterScreen({navigation}: any) {
